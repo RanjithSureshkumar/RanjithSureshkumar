@@ -5,7 +5,7 @@ Turning complex data into actionable insights that drive business performance an
 
 ## 👋 About Me
 
-I'm a Data Analyst with 3+ years of experience transforming raw data into strategic insights across sales operations, marketing analytics, and business intelligence. With an MSc in Business Intelligence & Business Analytics from EDHEC Business School, I specialize in building analytical frameworks, automated dashboards, and data-driven solutions that support cross-functional decision-making.
+I'm a Data Analyst with 3 years of experience transforming raw data into strategic insights across sales operations, marketing analytics, and business intelligence. With an MSc in Business Intelligence & Business Analytics from EDHEC Business School, I specialize in building analytical frameworks, automated dashboards, and data-driven solutions that support cross-functional decision-making.
 
 My work emphasizes:
 - **Data-driven insights:** Translating business questions into analytical solutions
@@ -28,12 +28,6 @@ My work emphasizes:
 **Analytics:** Statistical analysis, forecasting models, data cleaning & transformation  
 **Methodologies:** Agile frameworks (PSPO I, SAFe certified)
 
-## 💼 Professional Experience Highlights
-
-- **Improved forecast accuracy by 18%** through SIOP process optimization and demand signal analysis
-- **Reduced reporting cycle time by 20%** by automating dashboards using SQL, Power BI, and Excel
-- **Accelerated decision-making by 25%** through executive dashboard design and performance tracking
-- **Enhanced marketing ROI by 15%** via SKU-level performance analysis and campaign effectiveness tracking
 
 ## 🎓 Education
 
