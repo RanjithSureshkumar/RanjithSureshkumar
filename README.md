@@ -17,7 +17,7 @@ My work emphasizes:
 
 📊 **Data Analytics:** Performance analysis, forecasting & demand planning, trend identification, competitive intelligence  
 📈 **Business Intelligence:** Dashboard development, KPI tracking, automated reporting, data visualization  
-🔧 **Technical Skills:** SQL, Python, Power BI, Tableau, Excel automation, SAP, Nielsen IQ  
+🔧 **Technical Skills:** SQL, Python, Power BI, Tableau, Databricks, Excel automation, SAP, Nielsen IQ  
 🎯 **Business Applications:** Sales analytics, marketing ROI analysis, territory planning, SIOP processes
 
 ## 🧰 Technical Stack
